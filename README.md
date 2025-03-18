@@ -1,6 +1,6 @@
 # Bike Sales Analysis 📊🚴
 
-This project delves into analyzing a dataset of bike sales to uncover meaningful insights and trends. By utilizing tools such as **Python**, **Power BI**, and data visualization libraries like **Matplotlib** and **Seaborn**, the project presents actionable findings and offers a comprehensive sales analysis.
+This project delves into analyzing a dataset of bike sales to uncover meaningful insights and trends. By utilizing tool Excel, the project presents actionable findings and offers a comprehensive sales analysis.
 
 ---
 
