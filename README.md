@@ -13,7 +13,7 @@ This project delves into analyzing a dataset of bike sales to uncover meaningful
 ---
 
 ## **Technologies Used** 🛠️
-- **Excel**: Libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
+- **Excel**
 - **Data Sources**: Dataset containing bike sales information across multiple features.
 ---
 
